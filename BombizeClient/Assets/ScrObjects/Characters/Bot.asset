@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15c374b850fcf7bcbb87922209522b3b, type: 3}
+  m_Name: Bot
+  m_EditorClassIdentifier: 
+  <Prefab>k__BackingField: {fileID: 4504716116968179007, guid: 610183e6287914348ba95f60a9f25ba6, type: 3}
+  <BombPrefab>k__BackingField: {fileID: 222004640942555079, guid: 8845554db6d555269b0c8485c0da8a1d, type: 3}
+  <FirePrefab>k__BackingField: {fileID: 3519335570496509181, guid: fdd5c340f293a99e0ad6e8c6c010268f, type: 3}
+  <Name>k__BackingField: "\u0411\u043E\u0442"
+  <Icon>k__BackingField: {fileID: 21300000, guid: 7840393d4b8dc4940b2493bfd832d414, type: 3}

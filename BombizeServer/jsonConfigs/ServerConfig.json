@@ -1,0 +1,22 @@
+{
+    "tcp_host" : "127.0.0.1",
+    "tcp_port" : 9000,
+    "max_connections" : 1024,
+
+    "udp_host" : "127.0.0.1",
+    "udp_port_start" : 9001,
+    "udp_port_count" : 10,
+    "max_rooms_in_group" : 16,
+    
+    "db_host" : "127.0.0.1",
+    "db_port" : 33060,    
+    "db_login" : "username",
+    "db_password" : "12345",
+    "db_name_db" : "bmbz_db",
+    "db_user_table" : "users",
+
+    "count_threads" : 4,
+    "db_threads" : 1,
+
+    "game_maps_dir" : "D:\\GitHub\\BombizeServer\\GameMaps"
+}
